@@ -1,1 +1,1 @@
-# vue-d3-demo
+a demo based on Vue.js & D3.js
