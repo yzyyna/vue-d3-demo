@@ -1,1 +1,1 @@
-a demo based on Vue.js & D3.js
+A demo based on Vue.js & D3.js
